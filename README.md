@@ -1,3 +1,5 @@
+Here is the dataset from [kaggle](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
+
 Hello everyone,
 
 I used the "creditcardfraud" data set in this notebook. I have developed a model that decides whether the transaction is fraud or a legit transaction using the Logistic Regression model, which is the Binary Classification methods.
